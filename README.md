@@ -7,7 +7,7 @@ The project uses Natural Language Processing (NLP), Machine Learning, and Python
 <img width="1466" height="816" alt="Screenshot 2026-10-01 at 10 43 58 PM" src="https://github.com/user-attachments/assets/3e3243d1-b5a6-41a8-8861-66b9f3762a22" />
 
 
-Live Demo : https://ai-![Uploading Screenshot 2026-10-01 at 10.43.58 PM.png…]()-resume-screening-and-candidate-shortlisting-system-je.streamlit.app/
+Live Demo : https://ai-based-resume-screening-and-candidate-shortlisting-system-je.streamlit.app/
 
 📌 Project Overview
 
